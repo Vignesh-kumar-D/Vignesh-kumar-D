@@ -64,7 +64,7 @@ Senior Frontend Engineer with 6+ years of expertise in building high-performance
 
 ## 🤝 Let's Connect
 - [Portfolio](https://d-vignesh-kumar.netlify.app)
-- [LinkedIn](https://linkedin.com/in/vignesh-kumar-959a44146)
+- [LinkedIn](https://linkedin.com/in/vignesh-kumar)
 - [Email](mailto:dvigneshkumar3@gmail.com)
 
 ## 🏆 Achievements
