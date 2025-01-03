@@ -45,19 +45,19 @@ Senior Frontend Engineer with 6+ years of expertise in building high-performance
 - Micro-frontend architecture using React and Vue.js
 - Module Federation for code sharing
 - AWS CloudFront and S3 deployment
-- [View Project](github.com/Vignesh-kumar-D/module_fedration_tierOneSaas)
+- [View in Github](github.com/Vignesh-kumar-D/module_fedration_tierOneSaas)
 
 ### Enterprise Budget Tracker (Full Stack)
 - Real-time Firebase integration
 - Role-based access control
 - SSR with Next.js
-- [View Project](https://github.com/Vignesh-kumar-D/homesquare_expense)
+- [View in Github](https://github.com/Vignesh-kumar-D/homesquare_expense)
 
 ### Shorts & Reels Blocker (Chrome Extension)
 - Active users in production
 - Content filtering algorithm
 - Performance optimized
-- [View Extension](https://github.com/Vignesh-kumar-D/shorts_reel_blocker)
+- [View in Github](https://github.com/Vignesh-kumar-D/shorts_reel_blocker)
 
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Vignesh-kumar-D&show_icons=true&theme=radical)
