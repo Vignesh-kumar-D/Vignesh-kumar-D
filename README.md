@@ -19,7 +19,9 @@ Senior Frontend Engineer with 6+ years of expertise in building high-performance
 - **Backend:** Express.js, MongoDB
 - **Cloud:** AWS (CloudFront, S3)
 - **CI/CD:** GitHub Actions, BitBucket Pipelines
-
+- **Headless CMS:** Firebase, Sanity
+- **API Integration:** RESTful, GraphQL
+  
 ## 👨‍💻 Professional Experience
 
 ### Frontend Development Engineer | Victoria's Secret & Co
@@ -28,7 +30,7 @@ Senior Frontend Engineer with 6+ years of expertise in building high-performance
 - Developed mobile POS app processing $50K+ daily transactions
 - Led team of 5 junior developers, improving delivery speed by 25%
 
-### SDE-II | ShopUp
+### SDE-I | ShopUp
 #### Mar 2022 - Dec 2023
 - Architected admin panels with Next.js, reducing data fetch times by 60%
 - Implemented micro-frontend architecture using Module Federation
