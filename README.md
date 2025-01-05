@@ -16,11 +16,12 @@ Senior Frontend Engineer with 6+ years of expertise in building high-performance
 - **Version Control:** Git, GitHub Actions
 
 ### Backend & Infrastructure
-- **Backend:** Express.js, MongoDB
+- **Backend:** Express.js, MongoDB, WordPress API
 - **Cloud:** AWS (CloudFront, S3)
 - **CI/CD:** GitHub Actions, BitBucket Pipelines
-- **Headless CMS:** Firebase, Sanity
-- **API Integration:** RESTful, GraphQL
+- **CMS Integration:** Headless WordPress, Firebase, Sanity
+- **API Development:** RESTful APIs, WordPress REST API, GraphQL
+- **Architecture:** Microservices, Headless CMS, WordPress + React Integration
   
 ## 👨‍💻 Professional Experience
 
