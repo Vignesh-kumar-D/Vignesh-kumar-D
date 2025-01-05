@@ -52,7 +52,7 @@ Senior Frontend Engineer with 6+ years of expertise in building high-performance
 ### Enterprise Budget Tracker (Full Stack)
 - Real-time Firebase integration
 - Role-based access control
-- SSR with Next.js
+- SSR with Reactjs
 - [View in Github](https://github.com/Vignesh-kumar-D/homesquare_expense)
 
 ### Shorts & Reels Blocker (Chrome Extension)
